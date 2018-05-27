@@ -3,16 +3,16 @@
 ἀγαθοῖς ἀγαθός/adjective ἀγαθόω/verb
 ἀγαθῶν ἀγαθός/adjective ἀγαθόω/verb
 ἁγάλλομαι ἀγάλλω/verb
-ἀγαπᾶτε ἀγαπάω/verb ἀγαπάζω/verb
+ἀγαπᾶτε ἀγαπάζω/verb ἀγαπάω/verb
 ἀγάπη ἀγάπη/noun ἀγαπάω/verb
 ἀγάπης ἀγάπη/noun ἀγαπάω/verb
 ἅγιον ἅγιος/adjective
-ἁγίων ἄγος/noun ἅγιος/adjective ἁγής/adjective
+ἁγίων ἁγής/adjective ἄγος/noun ἅγιος/adjective
 ἀγωγῆς ἀγωγή/noun ἀγωγεύς/noun
 ἀγωνιζομένων ἀγωνίζομαι/verb
 ἀγωνιστάς ἀγωνιστής/noun
 ἀγωνιστῶν ἀγωνιστής/noun
-ἀγώνων ἄγωνος/adjective ἀγών/noun
+ἀγώνων ἀγών/noun ἄγωνος/adjective
 ἀδακρυτί ἀδακρυτί/adverb
 ἀδελφοί ἀδελφός/noun
 ἁδελφός ἀδελφός/noun
@@ -30,7 +30,7 @@
 αἵρεσις αἵρεσις/noun
 αἰρετικαῖς @@@
 αἱρετικοί αἱρετικός/adjective
-αἴτιον αἴτιος/adjective αἰτέω/verb
+αἴτιον αἰτέω/verb αἴτιος/adjective
 αἰῶνας αἰών/noun
 ἄκαιρον ἄκαιρος/adjective
 ἄκαιρος ἄκαιρος/adjective
@@ -41,7 +41,7 @@
 ἀκούσατε ἀκούω/verb
 Ἄκουω @@@
 Ἀκούω ἀκούω/verb
-ἀκριβῶς ἀκριβῶς/adverb ἀκριβόω/verb ἀκριβής/adjective
+ἀκριβῶς ἀκριβής/adjective ἀκριβόω/verb ἀκριβῶς/adverb
 ἀκροτέρους ἄκρος/adjective
 ἀκτῖσι ἀκτίς/noun
 ἀλγύνομαι ἀλγύνω/verb
@@ -49,7 +49,7 @@
 ἀλήθεια ἀλήθεια/noun
 ἀλήθειαν ἀλήθεια/noun
 ἀληθείας ἀλήθεια/noun
-ἄληκτος ἄλληκτος/adjective ἄληκτος/adjective
+ἄληκτος ἄληκτος/adjective ἄλληκτος/adjective
 ἅληπτον ἄληπτος/adjective
 ἁλιέως ἁλιεύς/noun
 ἀλλά ἀλλά/adverb
@@ -63,15 +63,15 @@
 ἄλλοις ἄλλος/pronoun
 Ἄλλος ἄλλος/pronoun
 ἁλλοτριοῦνται ἀλλοτριόω/verb
-ἀλλοτρίως ἀλλότριος/adjective ἀλλοτριόω/verb
+ἀλλοτρίως ἀλλοτριόω/verb ἀλλότριος/adjective
 ἁμαρτία ἁμαρτία/noun
 ἁμαρτωλῶν ἁμαρτωλή/noun ἁμαρτωλός/adjective
-Ἀμήν ἁμός1/adjective ἀμήν/exclamation ἡμός/adjective
+Ἀμήν ἀμήν/exclamation ἁμός1/adjective ἡμός/adjective
 ἄμπελον ἄμπελος/noun
 ἀμπελῶνα ἀμπελών/noun
 ἀμφότερα ἀμφότερος/adjective
 ἀμφοτέρων ἀμφότερος/adjective
-ἄν ἄν2/conjunction ἀνά/preposition ἐάν/conjunction ἄν1/particle
+ἄν ἀνά/preposition ἄν1/particle ἄν2/conjunction ἐάν/conjunction
 ἀναβλέψω ἀναβλέπω/verb
 ἀνάγκη ἀνάγκη/noun
 ἀναγνώσομαι ἀναγιγνώσκω/verb
@@ -92,8 +92,8 @@
 ἀντιποιοῦνται ἀντιποιέω/verb
 ἀντιτύπως ἀντίτυπος/adjective ἀντιτυπόω/verb
 ἀντιφάσεως ἀντίφασις/noun
-ἄνω ἄνω2/adverb ἄνω1/verb ἄνοος/adjective
-ἀξίαν ἄξιος/adjective ἀξιάω/verb ἀξία/noun
+ἄνω ἄνοος/adjective ἄνω1/verb ἄνω2/adverb
+ἀξίαν ἀξία/noun ἀξιάω/verb ἄξιος/adjective
 ἀξιόπιστον ἀξιόπιστος/adjective
 ἀόριστον ἀόριστος/adjective
 ἀορίστῳ ἀόριστος/adjective
@@ -102,7 +102,7 @@
 ἀπελαυνόμενα ἀπελαύνω/verb
 ἀπηρτῆσθαι ἀπαρτάω/verb
 Ἀπλήρωτον ἀπλήρωτος/adjective
-ἁπλοῦν ἁπλόω/verb ἁπλόος/adjective
+ἁπλοῦν ἁπλόος/adjective ἁπλόω/verb
 ἀπό ἀπό/preposition
 ἀποβάλλοντας ἀποβάλλω/verb
 ἀποδείκνυσιν ἀποδείκνυμι/verb
@@ -116,8 +116,8 @@
 ἀποστόλοις ἀπόστολος/noun
 ἀποῦσιν ἄπειμι1/verb
 ἀπράκτους ἄπρακτος/adjective
-ἆρα ἆρα/noun αἴρω/verb
-Ἆρα ἆρα/noun αἴρω/verb
+ἆρα αἴρω/verb ἆρα/noun
+Ἆρα αἴρω/verb ἆρα/noun
 Ἀραβίοις ἀραβέω/verb Ἀράβιος/adjective
 Ἀρίθμησον ἀριθμέω/verb
 ἀριθμός ἀριθμός/noun
@@ -125,7 +125,7 @@
 ἄῤῥιζον ἄρριζος/adjective
 ἄρτος ἄρτος/noun
 ἄρτους ἄρτος/noun
-ἄρτων ἄρτος/noun ἀρτάω/verb
+ἄρτων ἀρτάω/verb ἄρτος/noun
 ἀρχιτεκτονικῆς ἀρχιτεκτονικός/adjective
 ἀσπαζομένων ἀσπάζομαι/verb
 ἀσταχύων ἄσταχυς/noun
@@ -154,14 +154,14 @@
 ἄχρηστον ἄχρηστος/adjective
 βάθει βάθος/noun
 βαθύ βαθύς/adjective
-βασιλεία βτεμ̄αία/noun βασίλειος/adjective βασίλεια/noun βασιλειάω/verb
+βασιλεία βασίλεια/noun βασίλειος/adjective βασιλειάω/verb βτεμ̄αία/noun
 βασιλεῖαι βασιλεία/noun
-βασιλείαν βασιλεία/noun βασίλειος/adjective βασιλειάω/verb
+βασιλείαν βασίλειος/adjective βασιλεία/noun βασιλειάω/verb
 βαστάσω βαστάζω/verb
 Βεζελεήλ @@@
 βλέποντες βλέπω/verb
 βλέπων βλέπω/verb
-Βούλει βούλομαι/verb Βούλις/noun
+Βούλει Βούλις/noun βούλομαι/verb
 βούλεται βούλομαι/verb
 βούλομαι βούλομαι/verb
 γάρ γάρ/particle
@@ -170,9 +170,9 @@
 γενεά γενεά/noun
 γενέσθαι γίγνομαι/verb
 γενόμενοι γίγνομαι/verb
-γῆ γῆ/noun Γαῖα/noun
+γῆ Γαῖα/noun γῆ/noun
 γηραιοί γηραιός/adjective
-γῆς γῆ/noun Γαῖα/noun
+γῆς Γαῖα/noun γῆ/noun
 γίνεται γίγνομαι/verb
 γινόμενα γίγνομαι/verb
 γινόμενον γίγνομαι/verb
@@ -183,20 +183,20 @@
 γλῶσσαν γλῶσσα/noun
 γοητεύουσα γοητεύω/verb
 γυμνικῶν γυμνικός/adjective
-δαιμόνια δαιμόνιος/adjective δαιμόνιον/noun
+δαιμόνια δαιμόνιον/noun δαιμόνιος/adjective
 δαιτυμόνων δαιτυμών/noun
 δακτύλιος δακτύλιος/noun
 δέ δέ/particle
 δεδομένῳ δίδωμι/verb
-δέκα δεκάω/verb δέκα/numeral
+δέκα δέκα/numeral δεκάω/verb
 δένδρον δένδρον/noun
-δέξασθε δείκνυμι/verb δέχομαι/verb
-δέον δέον/noun δέω2/verb δεῖ/verb δέω1/verb
+δέξασθε δέχομαι/verb δείκνυμι/verb
+δέον δέον/noun δέω1/verb δέω2/verb δεῖ/verb
 δέρματα δέρμα/noun
 δή δή/particle
 δηλούμενος δηλέομαι/verb δηλόω/verb
 διά διά/preposition
-Διά διά/preposition Ζεύς/noun
+Διά Ζεύς/noun διά/preposition
 διαγγελλούσης διαγγέλλω/verb
 διάδοχοι διάδοχος/noun
 διαιροῦν διαιρέω/verb
@@ -216,16 +216,16 @@
 διεξετάζων διεξετάζω/verb
 διεσώσαντο διασῴζω/verb
 διπλόην διπλόη/noun διπλόος/adjective
-δίψαν διψάω/verb δίψα/noun
+δίψαν δίψα/noun διψάω/verb
 διψώδης διψώδης/adjective
 διψῶντα διψάω/verb
 διψῶντας διψάω/verb
 διψῶντες διψάω/verb
 δογμάτων δόγμα/noun
-δοκεῖ δοκεύς/noun δοκέω/verb
+δοκεῖ δοκέω/verb δοκεύς/noun
 δοκιμάζεται δοκιμάζω/verb
-δοκοῦντι δοκόω/verb δοκέω/verb
-δόξα δόξα/noun δοκέω/verb
+δοκοῦντι δοκέω/verb δοκόω/verb
+δόξα δοκέω/verb δόξα/noun
 δοξιώσασθαι @@@
 δράγμα δράγμα/noun
 δραπετεύσας δραπετεύω/verb
@@ -263,11 +263,11 @@
 Εἴ εἰ/conjunction
 εἶδος εἶδος/noun
 εἰδότες οἶδα/verb
-εἴη ἐάω/verb εἰμί/verb
+εἴη εἰμί/verb ἐάω/verb
 εἶναι εἰμί/verb
 εἷναι ἵημι/verb
 Εἰπέ εἶπον/verb
-εἷπε εἶπος/noun εἶπον/verb
+εἷπε εἶπον/verb εἶπος/noun
 εἰπεῖν εἶπον/verb
 εἴπερ εἴπερ/conjunction
 εἴποι εἶπον/verb
@@ -276,7 +276,7 @@
 εἰρήνῃ εἰρήνη/noun
 εἰρήνη εἰρήνη/noun εἰρηνέω/verb
 εἰρήνην εἰρήνη/noun
-εἴρηται ἔρομαι/verb ἐρῶ/verb εἴρω/verb εἴρω2/verb
+εἴρηται εἴρω/verb εἴρω2/verb ἐρῶ/verb ἔρομαι/verb
 εἰς εἰς/preposition
 εἰσί εἰμί/verb
 εἶτα εἶτα/adverb
@@ -291,8 +291,8 @@
 ἐκείνοις ἐκεῖνος/pronoun
 ἐκεῖνον ἐκεῖνος/pronoun
 ἐκεῖνος ἐκεῖνος/pronoun
-ἐκείνου ἐκεῖνος/pronoun κενόω/verb
-ἐκείνους ἐκεῖνος/pronoun κενόω/verb
+ἐκείνου κενόω/verb ἐκεῖνος/pronoun
+ἐκείνους κενόω/verb ἐκεῖνος/pronoun
 ἐκκαλύπτεται ἐκκαλύπτω/verb
 ἐκκεχυμέναι ἐκχέω/verb
 Ἐκκλησίᾳ ἐκκλησία/noun
@@ -309,15 +309,15 @@
 ἑλπίδι @@@
 ἔμετον ἔμετος/noun
 ἐμμιχθεῖσα ἐμμίγνυμαι/verb
-ἔν εἰς/preposition εἰμί/verb ἐν/preposition
+ἔν εἰμί/verb εἰς/preposition ἐν/preposition
 ἐν εἰς/preposition ἐν/preposition
 ἐναβρύνονται ἐναβρύνομαι/verb
 ἑναλλάσσοντι @@@
 ἐναντίας ἐναντίος/adjective
 ἐναντίων ἐναντίος/adjective
 ἐνασχολούμενοι ἐνασχολέομαι/verb
-ἐνεργεῖ ἐνεργής/adjective ἐνεργέω/verb
-ἐνθύμιον ἐνθύμιος/adjective ἐνθυμέομαι/verb
+ἐνεργεῖ ἐνεργέω/verb ἐνεργής/adjective
+ἐνθύμιον ἐνθυμέομαι/verb ἐνθύμιος/adjective
 ἐννοεῖ ἐννοέω/verb
 ἑνός εἷς/noun
 ἐνσημαίνεται ἐνσημαίνομαι/verb
@@ -327,7 +327,7 @@
 ἐξουσία ἐξουσία/noun
 ἐξουσίαν ἐξουσία/noun
 ἐξύφηναν ἐξυφαίνω/verb
-ἔξω ἔσσομαι/verb ἔξω/adverb
+ἔξω ἔξω/adverb ἔσσομαι/verb
 ἐξώτερον ἐξώτερος/adjective
 ἐπαγγελίας ἐπαγγελία/noun
 ἐπάναγκες ἐπανάγκης/adjective
@@ -340,15 +340,15 @@
 ἐπεί ἐπεί/conjunction
 ἐπειδή ἐπεί/conjunction
 ἐπευφραίνεσθαι ἐπί-εὐφραίνω/verb
-ἐπήγνυτο ἐπάγνυμι/verb πήγνυμι/verb
+ἐπήγνυτο πήγνυμι/verb ἐπάγνυμι/verb
 ἐπῄειμεν @@@
 ἐπί ἐπί/preposition
 ἐπίβασις ἐπίβασις/noun
 ἑπιγινώσκομεν @@@
 ἐπιδέχεται ἐπιδέχομαι/verb
 ἐπιθυμήσειε ἐπιθυμέω/verb
-ἐπιθυμίαν ἐπιθυμιάω/verb ἐπιθυμία/noun
-ἐπιθυμίας ἐπιθυμιάω/verb ἐπιθυμία/noun
+ἐπιθυμίαν ἐπιθυμία/noun ἐπιθυμιάω/verb
+ἐπιθυμίας ἐπιθυμία/noun ἐπιθυμιάω/verb
 ἐπίκτητον ἐπίκτητος/adjective
 ἐπικύπτει ἐπικύπτω/verb
 ἐπινίκιον ἐπινίκιος/adjective
@@ -361,16 +361,16 @@
 ἐπιτήδειον ἐπιτήδειος/adjective
 ἐπιτηδείους ἐπιτήδειος/adjective
 ἐπιτύχοι ἐπιτυγχάνω/verb
-ἐπιφάνειαν ἐπιφαίνω/verb ἐπιφάνεια/noun
+ἐπιφάνειαν ἐπιφάνεια/noun ἐπιφαίνω/verb
 ἐπιφορτίζοντα ἐπιφορτίζω/verb
 ἐπλουτήσατε πλουτέω/verb
 ἐργαζόμενοι ἐργάζομαι/verb
 ἔργων ἔργνυμι/verb ἔργον/noun
 ἐρεθίζει ἐρεθίζω/verb
-Ἐρεῖ ἐρῶ/verb ἐράομαι/verb ἐρέομαι/verb ἐρέω/verb
+Ἐρεῖ ἐράομαι/verb ἐρέομαι/verb ἐρέω/verb ἐρῶ/verb
 ἐριθέουσαι @@@
 Ἐρμηνεύει @@@
-ἐρῶ ἐράω1/verb ἐράομαι/verb ἐρέομαι/verb ἐρέω/verb
+ἐρῶ ἐράομαι/verb ἐράω1/verb ἐρέομαι/verb ἐρέω/verb
 ἐσαγηνεύθησαν σαγηνεύω/verb
 Ἐσκλήρυνται σκληρύνω/verb
 ἐστέ εἰμί/verb
@@ -397,24 +397,24 @@
 εὐφραίνεσθαι εὐφραίνω/verb
 εὐφροσύνη εὐφροσύνη/noun εὐφρόσυνος/adjective
 εὐχαριστεῖ εὐχαριστέω/verb
-εὐχῶν εὖχος/noun εὐχή/noun
+εὐχῶν εὐχή/noun εὖχος/noun
 εὐωχίας εὐωχία/noun
 ἐφαπτόμενοι ἐφάπτω/verb
 ἐφαπτόμενον ἐφάπτω/verb
 ἐφεξῆς ἐπώχατο/verb ἐφεξῆς/adverb
-ἐφύλαξε φυλάσσω/verb φυλάζω/verb
+ἐφύλαξε φυλάζω/verb φυλάσσω/verb
 ἔχειν ἔχω/verb
 ἐχθροῖς ἐχθρός/adjective
 ἔχουσα ἔχω/verb
 ἔχουσι ἔχω/verb
 ἔχουσιν ἔχω/verb
 ἔχω χόω/verb ἔχω/verb
-ἔχων χόω/verb ἔχω/verb χάω/verb
+ἔχων χάω/verb χόω/verb ἔχω/verb
 ζέειν ζέω/verb
 ζεστός ζεστός/adjective
 ζηλοτυπίας ζηλοτυπία/noun
 ζημίαν ζημία/noun
-ζωῆς ζωός/adjective ζωή/noun
+ζωῆς ζωή/noun ζωός/adjective
 ἤ ἤ1/conjunction ἤ2/exclamation
 ᾗ ἵημι/verb ὅς/pronoun ᾗ/adverb
 ἡ ὁ/article
@@ -428,7 +428,7 @@
 ἥκοντες ἥκω/verb
 Ἤκουσα ἀκούω/verb
 Ἦλθε ἔρχομαι/verb
-ἡλίου ἥλιος/noun ἡλιόω/verb
+ἡλίου ἡλιόω/verb ἥλιος/noun
 ἡμᾶς ἐγώ/pronoun ἡμός/adjective
 ἡμεῖς ἐγώ/pronoun
 ἡμετέραν ἡμέτερος/adjective
@@ -451,16 +451,16 @@
 θεαταί θεατής/noun θεατός/adjective
 θεία θεία/noun θεῖος1/adjective
 θείας θεία/noun θεῖος1/adjective
-θεῖον θεῖος2/noun θεῖος1/adjective θέω/verb
+θεῖον θέω/verb θεῖος1/adjective θεῖος2/noun
 θείου θειόω/verb θεῖος1/adjective θεῖος2/noun
 θείῳ θεῖος1/adjective θεῖος2/noun
 θεότητα θεότης/noun
-Θεοῦ θεάω/verb θεός/noun θεάομαι/verb
+Θεοῦ θεάομαι/verb θεάω/verb θεός/noun
 θεούς θεός/noun
 θεραπεύει θεραπεύω/verb
 θερμοτέραις θερμός/adjective
 Θεῷ θεάω/verb θεός/noun
-θεῶν θεά/noun θεός/noun θέα/noun θεάω/verb
+θεῶν θέα/noun θεά/noun θεάω/verb θεός/noun
 θεωρῶν θεωρέω/verb θεωρός/noun
 θησαυροί θησαυρός/noun
 θησαυρῶν θησαυρός/noun
@@ -471,7 +471,7 @@
 ἰδεῖν εἶδον/verb ἰδέω/verb
 ἰδίᾳ ἴδιος/adjective
 ἰδιώτου ἰδιώτης/noun
-ἱδρῶσι ἱδρώς/noun ἱδρόω/verb
+ἱδρῶσι ἱδρόω/verb ἱδρώς/noun
 Ἱεροσολυμίταις @@@
 ἰκμάς ἰκμάς/noun
 ἵν’ @@@
@@ -494,12 +494,12 @@
 καί καί/conjunction
 Καί καί/conjunction
 καινήν καινός/adjective
-καινοῦ καινέω/verb καινόω/verb καινός/adjective
-καιροῦ καιρόω/verb καιρός/noun
+καινοῦ καινέω/verb καινός/adjective καινόω/verb
+καιροῦ καιρός/noun καιρόω/verb
 Καίτοι καίτοι/particle
 κακόν κακός/adjective
-κακῶν κακόω/verb κακάζω/verb κάκη/noun κακός/adjective
-κάλλους καταλούομαι/verb κάλλος/noun
+κακῶν κάκη/noun κακάζω/verb κακός/adjective κακόω/verb
+κάλλους κάλλος/noun καταλούομαι/verb
 καλόν καλός/adjective
 καλός καλός/adjective
 καλοῦντι καλέω/verb
@@ -507,8 +507,8 @@
 κἅν @@@
 κἄν κἀν/conjunction
 καρδίαι καρδία/noun
-καρδίαν καρδιάω/verb καρδία/noun
-καρπῷ καρπός2/noun καρπός1/noun
+καρδίαν καρδία/noun καρδιάω/verb
+καρπῷ καρπός1/noun καρπός2/noun
 κατά κατά/preposition
 καταλιπών καταλιμπάνω/verb
 καταλόγου κατάλογος/noun
@@ -525,7 +525,7 @@
 κατεψύχθαι @@@
 κατησφαλισμένοι κατά-ἀσφαλίζομαι/verb κατά-ἀσφαλίζω/verb
 κατορθώματα κατόρθωμα/noun
-κάτω κατόω/verb κάτω/adverb κάτος/adjective
+κάτω κάτος/adjective κάτω/adverb κατόω/verb
 κεκορεσμένοι κορέννυμι/verb
 κεφαλῆς κεφαλή/noun
 κηρίοις κηρίον/noun
@@ -535,7 +535,7 @@
 κληρονομίαν κληρονομία/noun
 κλῆρος κλῆρος/noun
 κοιλότησιν κοιλότης/noun
-κοινῇ κοινῇ/adverb κοινόω/verb κοινός/adjective
+κοινῇ κοινός/adjective κοινόω/verb κοινῇ/adverb
 κοινῆς κοινός/adjective κοινόω/verb
 κοινόν κοινός/adjective
 κοινούς κοινός/adjective
@@ -555,14 +555,14 @@
 κύκλοις κύκλος/noun
 κυμαινομένην κυμαίνω/verb
 Κύριον κυρέω/verb κύριος/noun
-Κύριος κῦρος/noun κύριος/noun
+Κύριος κύριος/noun κῦρος/noun
 Κυρίου κυριόω/verb κύριος/noun
 λαμπηδόνι λαμπηδών/noun
-λέγειν λέγω2/verb λέγω1/verb λέγω3/verb
-λέγεσθαι λέγω2/verb λέγω1/verb λέγω3/verb
-λέγοντος λέγω2/verb λέγω1/verb λέγω3/verb
-λέγω λέγω2/verb λέγω3/verb λέγω1/verb λέγος/adjective
-λέγων λέγω2/verb λέγω3/verb λέγω1/verb λέγος/adjective
+λέγειν λέγω1/verb λέγω2/verb λέγω3/verb
+λέγεσθαι λέγω1/verb λέγω2/verb λέγω3/verb
+λέγοντος λέγω1/verb λέγω2/verb λέγω3/verb
+λέγω λέγος/adjective λέγω1/verb λέγω2/verb λέγω3/verb
+λέγων λέγος/adjective λέγω1/verb λέγω2/verb λέγω3/verb
 λεῖπον λείπω/verb
 λείποντος λείπω/verb
 λειτουργία λειτουργία/noun
@@ -576,12 +576,12 @@
 λόγου λογόω/verb λόγος/noun
 λόγους λογόω/verb λόγος/noun
 λόγῳ λόγος/noun
-λόγων λόγος/noun λογάω/verb
+λόγων λογάω/verb λόγος/noun
 λοιποί λοιπός/adjective
 λύπην λύπη/noun
-λωποδύτης λωποδύτης/noun λωποδυτέω/verb
+λωποδύτης λωποδυτέω/verb λωποδύτης/noun
 μαθεῖν μανθάνω/verb
-μαθητῶν μαθητός/adjective μαθητής/noun
+μαθητῶν μαθητής/noun μαθητός/adjective
 μαθόντες μανθάνω/verb
 μακαριζομένους μακαρίζω/verb
 Μακάριοι Μακάριος/noun μακάριος/adjective
@@ -589,12 +589,12 @@
 μακράν μακράν/adverb μακρός/adjective
 μακρούς μακρός/adjective
 μᾶλλον μᾶλλον/adverb
-Μαρτυροῦσι μαρτύρομαι/verb μαρτυρέω/verb
+Μαρτυροῦσι μαρτυρέω/verb μαρτύρομαι/verb
 ματαιολογοῦσι ματαιολογέω/verb
-μάτην ματάω/verb μάτη/noun μάτος/noun μάτην/adverb
+μάτην μάτη/noun μάτην/adverb μάτος/noun ματάω/verb
 με ἐγώ/pronoun
 μεγάλη μέγας/adjective
-Μεγάλη μέγας/adjective Μεγάλη/noun
+Μεγάλη Μεγάλη/noun μέγας/adjective
 μεγάλην μέγας/adjective
 μέγαν μέγας/adjective
 Μέγας Μέγης/noun μέγας/adjective
@@ -604,8 +604,8 @@
 μελάνην μελάνω/verb
 μέν μέν/particle
 μέρει μέρος/noun
-μεσημβρίας μεσημβριάω/verb μεσημβρία/noun μεσήμβριος/adjective
-Μεσοποταμίας μεσοποτάμιος/adjective Μεσοποταμία/noun
+μεσημβρίας μεσήμβριος/adjective μεσημβρία/noun μεσημβριάω/verb
+Μεσοποταμίας Μεσοποταμία/noun μεσοποτάμιος/adjective
 μετά μετά/preposition
 μετακλινόμενοι μετακλίνομαι/verb
 μετέχειν μετέχω/verb
@@ -628,9 +628,9 @@
 μνήμην μνήμη/noun
 μοι ἐγώ/pronoun
 μολυβοίνοις @@@
-μόνους μόνος/adjective μονόω/verb
+μόνους μονόω/verb μόνος/adjective
 μόνῳ μόνος/adjective
-μόνων μόνος/adjective μονόω/verb
+μόνων μονόω/verb μόνος/adjective
 μόσχος μόσχος1/noun μόσχος2/noun
 μου ἐγώ/pronoun
 μυστήριον μυστήριον/noun
@@ -663,17 +663,17 @@
 οἴεται οἴομαι/verb
 Οἰκειοῦμαι οἰκειόω/verb
 οἶκος οἶκος/noun
-οἶμαι οἴομαι/verb οἴμη/noun
+οἶμαι οἴμη/noun οἴομαι/verb
 οἷον οἷος/adjective
 οἷος οἷος/adjective
 οἴχεται οἴχομαι/verb
 ὀκτώ ὀκτώ/numeral
 ὀλίγην ὀλίγος/adjective
 ὀλίγου ὀλίγος/adjective ὀλιγόω/verb
-ὅλος ὅλος/adjective ὅλοξ/adjective
+ὅλος ὅλοξ/adjective ὅλος/adjective
 ὁμοδούλων ὁμόδουλος/noun
 ὅμοια ὁμοῖος/adjective ὅμοιος/adjective
-Ὁμοίως ὁμοῖος/adjective ὅμοιος/adjective ὁμοιόω/verb
+Ὁμοίως ὁμοιόω/verb ὁμοῖος/adjective ὅμοιος/adjective
 ὁμολογεῖ ὁμολογέω/verb
 ὁμολογοῦσι ὁμολογέω/verb
 ὄν εἰμί/verb
@@ -694,22 +694,22 @@
 ὁρῶ ὁράω/verb
 Ὁρῶ ὁράω/verb
 ὁρώμενα ὁράω/verb
-ὅς ὅς2/pronoun ὅς/pronoun
+ὅς ὅς/pronoun ὅς2/pronoun
 ὅσα ὅσος/adjective
 ὅσον ὅσος/adjective
 ὅταν ὅταν/conjunction
-ὅτε ὅτε/conjunction ὅστε/pronoun
-ὅτι ὅστις/pronoun ὅτι2/conjunction ὅτι1/adverb
-οὗ ἵημι/verb ἕ/pronoun οὗ/adverb ὅς/pronoun
-Οὗ ἵημι/verb ἕ/pronoun οὗ/adverb ὅς/pronoun
+ὅτε ὅστε/pronoun ὅτε/conjunction
+ὅτι ὅστις/pronoun ὅτι1/adverb ὅτι2/conjunction
+οὗ οὗ/adverb ἕ/pronoun ἵημι/verb ὅς/pronoun
+Οὗ οὗ/adverb ἕ/pronoun ἵημι/verb ὅς/pronoun
 οὐ οὐ/adverb
-οὐδέ οὐδέ/particle οὐδός2/noun οὐδός1/noun
+οὐδέ οὐδέ/particle οὐδός1/noun οὐδός2/noun
 Οὐδείς οὐδείς/pronoun
 οὐδέτερον οὐδέτερος/adjective
 οὗν εἰς/preposition ἐν/preposition ὗς/noun
 οὖν οὖν/particle
 οὐρανόν οὐρανός/noun
-οὐρανῶν οὐράνη/noun οὐρανόω/verb οὐρανός/noun
+οὐρανῶν οὐράνη/noun οὐρανός/noun οὐρανόω/verb
 οὐσίαν οὐσία/noun
 οὐσίας οὐσία/noun
 οὔτε οὔτε/adverb
@@ -724,7 +724,7 @@
 παθημάτων πάθημα/noun
 πάθος πάθος/noun
 πάθω πάσχω/verb
-πάλαι πάλη/noun πάλαι/adverb πάλα/noun πάλλω/verb
+πάλαι πάλα/noun πάλαι/adverb πάλη/noun πάλλω/verb
 πάλιν πάλιν/adverb
 πᾶν πᾶς/adjective
 πάντα πᾶς/adjective
@@ -740,14 +740,14 @@
 παραθέσεως παράθεσις/noun
 παραθέσθαι παρατίθημι/verb
 παραμετροῦντες παραμετρέω/verb
-παρασκευάσῃ παρασκεύασις/noun παρασκευάζω/verb
+παρασκευάσῃ παρασκευάζω/verb παρασκεύασις/noun
 παρασκευάσωσιν παρασκευάζω/verb
 παρατρέχειν παρατρέχω/verb
 παρέχειν παρέχω/verb
 παρόντα πάρειμι1/verb
 παρόντων πάρειμι1/verb
 παροῦσαν πάρειμι1/verb παρόω/verb
-παροῦσιν πείρω/verb πάρειμι1/verb παρόω/verb
+παροῦσιν πάρειμι1/verb παρόω/verb πείρω/verb
 παρῳδήσας παρῳδέω/verb
 πᾶσα πᾶς/adjective
 πατέρας πατήρ/noun
@@ -760,8 +760,8 @@
 πείθειν πείθω/verb
 πείθομεν πείθω/verb
 πενέστερος πένης/adjective
-πένησι πένομαι/verb πένης/noun
-πενήτων πενέω/verb πένης/noun
+πένησι πένης/noun πένομαι/verb
+πενήτων πένης/noun πενέω/verb
 πενίαν πενία/noun
 πενιχρῷ πενιχρός/adjective
 πεπλανημένον πλανάω/verb
@@ -769,7 +769,7 @@
 περί περί/preposition
 περιαγόμενα περιάγω/verb
 περιβολῇ περιβολή/noun
-περιέχει περιχέω/verb περιέχω/verb
+περιέχει περιέχω/verb περιχέω/verb
 περικαλλεῖς περικαλλής/adjective
 περικαλλεστέραν περικαλλής/adjective
 περιόδου περίοδος/noun
@@ -777,18 +777,18 @@
 περιπλεκομένων περιπλέκω/verb
 περισσεύει περισσεύω/verb
 περισσότερον περισσός/adjective
-Πέτρος πέτρος/noun Πέτρος/noun
+Πέτρος Πέτρος/noun πέτρος/noun
 πηγάζει πηγάζω/verb
-πηγῆς πηγάζω/verb πηγός/adjective πηγή/noun
+πηγῆς πηγάζω/verb πηγή/noun πηγός/adjective
 πιστεύεται πιστεύω/verb
 πίστεως πίστις/noun
 πλάτυνον πλατύνω/verb
 πλείονι πλείων/adjective
 πλείονος πλείων/adjective
-πλέον πλέως/adjective πλέω/verb πλέος/adjective πλείων/adjective
+πλέον πλέος/adjective πλέω/verb πλέως/adjective πλείων/adjective
 πλεονάζει πλεονάζω/verb
 πλεονάζουσαν πλεονάζω/verb
-πλήθει πλῆθος/noun πλήθω/verb
+πλήθει πλήθω/verb πλῆθος/noun
 πλῆθος πλῆθος/noun
 πλήν πλήν/preposition
 πλήρεις πλήρης/adjective
@@ -808,13 +808,13 @@
 πνευματικόν πνευματικός/adjective
 πνευματομάχος @@@
 Πνεύματος πνεῦμα/noun
-πνευμάτων πνεῦμα/noun πνευματόω/verb
+πνευμάτων πνευματόω/verb πνεῦμα/noun
 πόθον πόθος/noun
 ποίησον ποιέω/verb
 ποιοῦμαι ποιέω/verb ποιόω/verb
-πολεμίων πολεμέω/verb πολέμιος/adjective
-πολιᾷ πολιάζω/verb πολιά/noun πολιός/adjective
-πολιά πολιός/adjective πολιάς/noun πολιά/noun
+πολεμίων πολέμιος/adjective πολεμέω/verb
+πολιᾷ πολιά/noun πολιάζω/verb πολιός/adjective
+πολιά πολιά/noun πολιάς/noun πολιός/adjective
 πολῖται πολίτης/noun
 πολλάκις πολλάκις/adverb
 πολλάς πολύς/adjective
@@ -826,7 +826,7 @@
 Πόρνη πόρνη/noun
 πορφύραν πορφύρα/noun
 πόσον πόσος/adjective
-ποτέ ποτός/adjective ποτέ/particle
+ποτέ ποτέ/particle ποτός/adjective
 πράγματος πρᾶγμα/noun
 πραγμάτων πρᾶγμα/noun
 πρέσβεις πρέσβις/noun πρέσβυς/noun
@@ -861,15 +861,15 @@
 πρώτη πρότερος/adjective πρῶτος/adjective
 πτωχεύομεν πτωχεύω/verb
 πτωχεύοντι πτωχεύω/verb
-πῶς πῶς2/adverb πῶς/noun πως/particle
-Πῶς πῶς2/adverb πῶς/noun πως/particle
+πῶς πως/particle πῶς/noun πῶς2/adverb
+Πῶς πως/particle πῶς/noun πῶς2/adverb
 ῥηθέν ἐρῶ/verb ῥέομαι/verb
 ροπήν @@@
 σαφῶς σαφής/adjective
-σεμνοί σεμνόω/verb σεμνός/adjective
+σεμνοί σεμνός/adjective σεμνόω/verb
 σημαίνεται σημαίνω/verb
 σημασίας σημασία/noun
-σιωπῇ σιωπή/noun σιωπάω/verb
+σιωπῇ σιωπάω/verb σιωπή/noun
 σκηνήν σκηνή/noun
 σκότος σκότος/noun
 σοι σύ/pronoun
@@ -904,7 +904,7 @@
 συμφωνία συμφωνία/noun
 συνασπίζουσι συνασπίζω/verb
 συνασπισμόν συνασπισμός/noun
-σύνδειπνον σύνδειπνος/noun σύνδειπνον/noun
+σύνδειπνον σύνδειπνον/noun σύνδειπνος/noun
 σύνδεσμος σύνδεσμος/noun
 συνενεχθῆναι συμφέρω/verb
 συνέργειαν @@@
@@ -924,9 +924,9 @@
 σωζομένων σώζω/verb
 σώματι σῶμα/noun
 σώματος σῶμα/noun
-σῶν σέω/verb σός/adjective σῶς/adjective σής/noun
+σῶν σέω/verb σής/noun σός/adjective σῶς/adjective
 σωτηρία σωτηρία/noun
-τά ὁ/article τίς/irregular
+τά τίς/irregular ὁ/article
 ταῖς ὁ/article
 ταπεινά ταπεινός/adjective
 ταπεινόν ταπεινός/adjective
@@ -934,26 +934,26 @@
 ταῦτα οὗτος/pronoun
 ταύτην οὗτος/pronoun
 ταύτης οὗτος/pronoun
-τάχα τάχος/noun τάχα/adverb
-Τάχα τάχος/noun τάχα/adverb
+τάχα τάχα/adverb τάχος/noun
+Τάχα τάχα/adverb τάχος/noun
 τέ σύ/pronoun τε/particle
 τέλος τέλος/noun
 τέχναις τέχνη/noun
 τεχνίτῃ τεχνίτης/noun
 τεχνολογοῦσι τεχνολογέω/verb
-τῇ ὁ/article τῇ/adverb
+τῇ τῇ/adverb ὁ/article
 τήν ὁ/article
 τῆς ὁ/article
-τί τις/pronoun τίς/irregular
-Τί τις/pronoun τίς/irregular
-τὶ τις/pronoun τίς/irregular
+τί τίς/irregular τις/pronoun
+Τί τίς/irregular τις/pronoun
+τὶ τίς/irregular τις/pronoun
 τιμίους τίμιος/adjective τιμιόω/verb
 τινά τις/pronoun
 τινάς τις/pronoun
-τίνος τις/pronoun τίς/irregular
-τίς τις/pronoun τίς/irregular
-Τίς τις/pronoun τίς/irregular
-τὶς τις/pronoun τίς/irregular
+τίνος τίς/irregular τις/pronoun
+τίς τίς/irregular τις/pronoun
+Τίς τίς/irregular τις/pronoun
+τὶς τίς/irregular τις/pronoun
 τισί τις/pronoun
 τό ὁ/article
 Τό ὁ/article
@@ -975,7 +975,7 @@
 τοσοῦτον τοσοῦτος/pronoun
 τοσούτων τοσοῦτος/pronoun
 τότε τότε/adverb
-τοῦ τις/pronoun ὁ/article τίς/irregular
+τοῦ τίς/irregular τις/pronoun ὁ/article
 τούς ὁ/article
 τοῦτο οὗτος/pronoun
 τούτοις οὗτος/pronoun
@@ -992,22 +992,22 @@
 τρόπον τρόπος/noun
 τροφῆς τρέφω/verb τροφέω/verb τροφή/noun τροφεύς/noun
 τύ σύ/pronoun
-τῷ τῷ/adverb τις/pronoun ὁ/article τίς/irregular
+τῷ τίς/irregular τις/pronoun τῷ/adverb ὁ/article
 τῶν ὁ/article
 ὑγρόν ὑγρός/adjective
 ὕδατι ὕδωρ/noun
 ὕδωρ ὕδωρ/noun
 Υίον @@@
-ὕλη ὕλη/noun ὗλις/noun ὑλάω/verb
-ὑμᾶς ὑμός/adjective σύ/pronoun
+ὕλη ὑλάω/verb ὕλη/noun ὗλις/noun
+ὑμᾶς σύ/pronoun ὑμός/adjective
 ὑμῖν σύ/pronoun
 ὑμνολογοῦντες ὑμνολογέω/verb
 ὕμνον ὕμνος/noun
-ὑμῶν ὑμός/adjective σύ/pronoun
+ὑμῶν σύ/pronoun ὑμός/adjective
 ὑπέκκαυμα ὑπέκκαυμα/noun
 ὑπέρ ὑπέρ/preposition
 ὑπερζέοντος ὑπερζέω/verb
-ὑπερορίας ὑπερόριος/adjective ὑπερορία/noun
+ὑπερορίας ὑπερορία/noun ὑπερόριος/adjective
 ὑπερχεόμενον ὑπερχέω/verb
 ὐπό @@@
 ὑπό ὑπό/preposition
@@ -1033,12 +1033,12 @@
 φιλοσοφήσει φιλοσοφέω/verb
 φιλοτιμίαν φιλοτιμία/noun
 φλέβες φλέψ/noun
-φλογί φλόξ/noun φλογίς/noun
+φλογί φλογίς/noun φλόξ/noun
 φόρων φόρον/noun φόρος/noun
-φύσει φύζωφύζω/verb φύω/verb φύζω/verb φύσις/noun
-φύσεις φύω/verb φύζω/verb φυσάω/verb φύσις/noun
+φύσει φύζω/verb φύζωφύζω/verb φύσις/noun φύω/verb
+φύσεις φυσάω/verb φύζω/verb φύσις/noun φύω/verb
 φύσεως φύσις/noun
-φύσιν φύς/verb φύω/verb φύσις/noun
+φύσιν φύς/verb φύσις/noun φύω/verb
 φύσις φύσις/noun
 φωνήν φωνή/noun
 χαίρειν χαίρω/verb
@@ -1063,23 +1063,23 @@
 Χριστιανῶν Χριστιανός/noun χριστιανός/noun
 Χριστός χριστός/adjective
 χρόας χροιά/noun
-χρόνου χρόνος/noun χρονόω/verb
+χρόνου χρονόω/verb χρόνος/noun
 χρύσεος χρύσεος/adjective
 χρυσίον χρυσίον/noun
 χρυσίου χρυσίον/noun χρύσεος/adjective
 χρυσόν χρυσός/noun
 χρυσός χρυσός/noun
 χρυσῷ χρυσός/noun χρύσεος/adjective
-χρυσῶν χρυσόω/verb χρυσός/noun χρύσεος/adjective
+χρυσῶν χρυσός/noun χρυσόω/verb χρύσεος/adjective
 χώραν χώρα/noun
 Ψαλμῳδός ψαλμῳδός/noun
 ψεῦδος ψεῦδος/noun
 ψυχαί ψυχή/noun
 ψυχῇ ψυχάζω/verb ψυχή/noun ψύχω/verb
 ψυχήν ψυχή/noun
-ψυχῆς ψυχή/noun ψυχάζω/verb
+ψυχῆς ψυχάζω/verb ψυχή/noun
 ψυχρός ψυχρός/adjective
-ψυχῶν ψυχή/noun ψῦχος/noun ψυχόω/verb
+ψυχῶν ψυχή/noun ψυχόω/verb ψῦχος/noun
 ᾧ ὅς/pronoun
 ᾯ ὅς/pronoun
 Ὤ ὦ/exclamation
